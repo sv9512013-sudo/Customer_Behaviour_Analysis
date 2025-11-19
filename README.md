@@ -1,1 +1,2 @@
 # Customer_Behaviour_Analysis
+This project focuses on analyzing customer behavior related to product purchases in order to identify patterns, trends, and actionable insights that can help improve marketing strategies, product portfolio decisions, and customer retention. Through exploratory data analysis (EDA), segmentation, and predictive modeling, this project aims to understand how customers interact with products and what drives their purchasing decisions.
